@@ -38,7 +38,3 @@ js:
       - 'console.log\('
       - 'alert\('
       - 'prompt\('
-
-screenshots:
-  - path: "index.html"
-    sizes: [320]
